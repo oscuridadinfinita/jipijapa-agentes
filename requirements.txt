@@ -1,18 +1,7 @@
-# Core
-langchain>=0.1.0
-langchain-community
-langchain-openai
-crewai>=0.28.0
-crewai-tools
-chromadb
-tiktoken
-pypdf
-markdown
-
-# Utilidades
-python-dotenv
-tqdm
-ipykernel   # si quieres usar Jupyter
-
-# Opcional para embeddings locales (si no usas OpenAI)
-# sentence-transformers
+streamlit==1.35.0
+crewai==0.70.0
+langchain==0.2.0
+langchain-community==0.2.0
+langchain-openai==0.1.0
+chromadb==0.4.22
+python-dotenv==1.0.0
