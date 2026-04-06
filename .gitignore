@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Base de datos vectorial (se regenera)
+data/faiss_index/
+
+# Archivos de sistema
+.DS_Store
