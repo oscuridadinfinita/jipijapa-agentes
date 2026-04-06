@@ -5,3 +5,6 @@ langchain-community==0.2.0
 langchain-openai==0.1.0
 chromadb==0.4.22
 python-dotenv==1.0.0
+streamlit
+openai
+python-dotenv
