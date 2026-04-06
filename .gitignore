@@ -9,7 +9,7 @@ __pycache__/
 *.pyo
 
 # Base de datos vectorial (se regenera)
-data/faiss_index/
+# data/faiss_index/
 
 # Archivos de sistema
 .DS_Store
